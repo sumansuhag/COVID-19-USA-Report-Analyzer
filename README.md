@@ -52,9 +52,7 @@ Ensure you have the following installed:
 
 Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/covid19-usa-report-analyzer.git
+Clone the repository: https://github.com/sumansuhag/COVID-19-USA-Report-Analyzer/blob/main/Covid_19_USA_Report_Analysizer.ipynb
 
 Navigate to the project directory:
 
