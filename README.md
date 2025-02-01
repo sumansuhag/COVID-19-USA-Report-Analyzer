@@ -93,7 +93,3 @@ Contributions are welcome! To get started:
 
 ## License
 This project is licensed under the MIT License.
-
----
-
-This README file captures the essence of your data analysis project in a compelling and attractive way. If you need any further adjustments or assistance, feel free to let me know!
